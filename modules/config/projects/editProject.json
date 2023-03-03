@@ -1,0 +1,10 @@
+{
+    "name": "Campinas",
+    "description": "Projeto teste ROBOT (Atualizado)",
+    "corrective_threshold":"",
+    "main_inventory_project_name": "",
+    "coords_reference": "",
+    "main_inventory_project": "",
+    "has_main_inventory": false,
+    "auto_maintenance_enabled":false
+}
